@@ -1,0 +1,14 @@
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\bin\Debug\netcoreapp2.2\Todo.API.deps.json
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\bin\Debug\netcoreapp2.2\Todo.API.runtimeconfig.json
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\bin\Debug\netcoreapp2.2\Todo.API.runtimeconfig.dev.json
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\bin\Debug\netcoreapp2.2\Todo.API.dll
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\bin\Debug\netcoreapp2.2\Todo.API.pdb
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.csprojAssemblyReference.cache
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.csproj.CoreCompileInputs.cache
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.RazorAssemblyInfo.cache
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.RazorAssemblyInfo.cs
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.AssemblyInfoInputs.cache
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.AssemblyInfo.cs
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.RazorTargetAssemblyInfo.cache
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.dll
+D:\Cursos\Proyectos_practica\BackEnd_Todo\Todo.API\obj\Debug\netcoreapp2.2\Todo.API.pdb

@@ -1,9 +1,10 @@
 ﻿using System;
 
-public class TodoItem
+public class Item
 {
     public int Id { get; set; }
     public string NameItem { get; set; }
     public Boolean Completado { get; set; }
+
 
 }

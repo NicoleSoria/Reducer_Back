@@ -27,7 +27,7 @@ namespace Todo.API.Controllers
             _config = config;
         }
 
-        [HttpPost("Register")]
+        [HttpPost("register")]
         public async Task<IActionResult> Register(DtoRegisterUser userDto)
         {
             userDto.UserName = userDto.UserName.ToLower();
@@ -48,7 +48,7 @@ namespace Todo.API.Controllers
                
         }
 
-        [HttpPost("Loguin")]
+        [HttpPost("loguin")]
         public async Task<IActionResult> Loguin(DtoLoguinUser loguinDto)
         {
             var userFromRepo = await _repo.Login(loguinDto.UserName, loguinDto.Password);

@@ -1,0 +1,14 @@
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.csprojAssemblyReference.cache
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.csproj.CoreCompileInputs.cache
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.RazorAssemblyInfo.cache
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.RazorAssemblyInfo.cs
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.AssemblyInfoInputs.cache
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.AssemblyInfo.cs
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\bin\Debug\netcoreapp2.1\Todo.API.deps.json
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\bin\Debug\netcoreapp2.1\Todo.API.runtimeconfig.json
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\bin\Debug\netcoreapp2.1\Todo.API.runtimeconfig.dev.json
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\bin\Debug\netcoreapp2.1\Todo.API.dll
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\bin\Debug\netcoreapp2.1\Todo.API.pdb
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.RazorTargetAssemblyInfo.cache
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.dll
+D:\Tamara\Documents\Cursos\Aplicaciones\redux\Reducer_Back\obj\Debug\netcoreapp2.1\Todo.API.pdb

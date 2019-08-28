@@ -9,12 +9,15 @@ namespace Todo.API.Dto
 
     public class DtoRegisterUser
     {
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
         [Required]
         public string UserName { get; set; }
 
         [Required]
         [StringLength(8, MinimumLength =3, ErrorMessage = "Contraseña entre 3 y 8 caracteres")]
         public string Password { get; set; }
+        
 
     }
 }

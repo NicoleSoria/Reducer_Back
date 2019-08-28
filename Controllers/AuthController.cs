@@ -37,7 +37,9 @@ namespace Todo.API.Controllers
 
             var createToUser = new User
             {
-                UserName = userDto.UserName
+                UserName = userDto.UserName,
+                Nombre = userDto.Nombre,
+                Apellido = userDto.Apellido
             };
 
             var createdUser = await _repo.Register(createToUser, userDto.Password);

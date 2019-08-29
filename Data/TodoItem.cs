@@ -50,6 +50,11 @@ namespace Todo.API.Data
             throw new NotImplementedException();
         }
 
+        public Task<Item> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
         // public Task<Item> GetAll()
         // {
         //     var items = "";

@@ -29,17 +29,31 @@ namespace Todo.API.Data
 
             item.Completado = item.Completado ? true : false;
 
+            await _context.SaveChangesAsync();
+            
             return item;
         }
 
-        public Task<Item> Editar(int id, string textItem)
+        public async Task<Item> Editar(int id, string textItem)
         {
-            throw new NotImplementedException();
+            var item = await _context.TodoItems.FirstOrDefaultAsync(x => x.Id == id);
+
+            item.NameItem = textItem;
+
+            await _context.SaveChangesAsync();
+
+            return item;
         }
 
         public Task<Item> Eliminar(int id)
         {
             throw new NotImplementedException();
         }
+
+        // public Task<Item> GetAll()
+        // {
+        //     var items = "";
+        //     return  items;
+        // }
     }
 }

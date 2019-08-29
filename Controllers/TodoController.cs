@@ -15,6 +15,7 @@ namespace Todo.API.Controllers
             _repo = repo;
 
         }
+        
 
         [HttpPost("agregar")]
         public async Task<IActionResult> Agregar(DtoItemTodo itemDto){
@@ -30,10 +31,18 @@ namespace Todo.API.Controllers
             return StatusCode(201);
         }
 
-        [HttpPost("completar")]
-        public async Task<IActionResult> completar(int id){
+        [HttpPost("actualizarEstado")]
+        public async Task<IActionResult> ActualizarEstado(int id){
 
             var item = await _repo.ActualizarEstado(id);
+
+            return StatusCode(201);
+        }
+
+        [HttpPost("editar")]
+        public async Task<IActionResult> editar(int id, string textoItem){
+
+            var item = await _repo.Editar(id, textoItem);
 
             return StatusCode(201);
         }

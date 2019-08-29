@@ -11,5 +11,7 @@ namespace Todo.API.Data
         Task<Item> Editar(int id, string textItem);
         Task<Item> Eliminar(int id);
         Task<Item> ActualizarEstado(int id);
+
+        Task<Item> GetAll();
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 public class User
 {
@@ -9,4 +10,5 @@ public class User
     public byte[] passwordHash { get; set; }
     public byte[] passwordSalt { get; set; }
 
+    public ICollection<Item> Item {get; set;}
 }

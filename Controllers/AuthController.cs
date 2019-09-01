@@ -85,5 +85,11 @@ namespace Todo.API.Controllers
                 token = tokenHandler.WriteToken(token)
             });
         }
+
+        [HttpPost("google")]
+        public async Task<IActionResult> GoogleSingIn(){
+
+            return StatusCode(200);
+        }
     }
 }
